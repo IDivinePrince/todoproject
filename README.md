@@ -32,4 +32,4 @@ Have a form where a user can create a new note, which can be added to the list. 
 
 
 Link your notes & todo pages together in a user-friendly way! Make hyperlinks at the bottom of each page that take you to the other page
-So it is easy for a user to get from the to-do list to the notes and vice-versa, even if you don't know the exact URLls
+So it is easy for a user to get from the to-do list to the notes and vice-versa, even if you don't know the exact URLs
